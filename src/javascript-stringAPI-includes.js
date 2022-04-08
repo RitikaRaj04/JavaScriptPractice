@@ -1,4 +1,4 @@
-require('./mocha-require')
+require('./mocha-require') 
 
 describe('`string.includes()` determines if a string can be found inside another one', function() {
     describe('finding a single character', function() {
